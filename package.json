@@ -1,0 +1,10 @@
+{
+  "name": "Reis_tur",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.45.2",
+    "swiper": "^7.4.1"
+  }
+}

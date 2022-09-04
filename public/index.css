@@ -271,7 +271,7 @@ nav.show div.icon-close {
 /* home */
 
 #home {
-  background-image: url("../public/images/capa.png");
+  background-image: url("images/capa.png");
   background-repeat: no-repeat;
   background-size: cover;
   height:53.1rem;
